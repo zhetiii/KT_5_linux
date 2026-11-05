@@ -1,7 +1,7 @@
 # Система бронирования (BookingService)
 Контрольная точка по дисциплине «Linux». Консольное Bash/TUI-приложение для управления бронированиями.
 
-## Функционал
+# Функционал
 - Просмотр всех бронирований.
 - Добавление новой брони с проверкой ввода (`read`, `if`).
 - Поиск по записям с использованием утилиты `grep`.
@@ -16,6 +16,8 @@ bash-tui-project/
 ├── README.md
 └── data/
     └── bookings.txt
+
+
 
 ## 3. Команды для развертывания и запуска в Ubuntu
 
@@ -32,19 +34,23 @@ chmod +x app.sh
 ./app.sh
 
 ## 4. Скриншоты работы проекта
-# Скриншот 1. Главное меню TUI-приложения
+Скриншот 1. Главное меню TUI-приложения
 <img width="907" height="511" alt="изображение" src="https://github.com/user-attachments/assets/40368ac3-2e89-4363-adbb-70aed4fc58a5" />
 <img width="916" height="575" alt="изображение" src="https://github.com/user-attachments/assets/10c991b1-75ec-423e-a33c-fb803d27bd36" />
 
-# Скриншот 2. Добавление нового бронирования
+
+Скриншот 2. Добавление нового бронирования
 <img width="913" height="385" alt="изображение" src="https://github.com/user-attachments/assets/752a2b93-6a83-42ee-89da-dc791c399d82" />
 
-# Скриншот 3. Просмотр списка и поиск по бронированиям (grep)
+
+Скриншот 3. Просмотр списка и поиск по бронированиям (grep)
 <img width="914" height="577" alt="изображение" src="https://github.com/user-attachments/assets/50160604-37e4-4247-a2fe-366eb65508c4" />
 <img width="912" height="214" alt="изображение" src="https://github.com/user-attachments/assets/a72e5292-e199-41e9-8af4-b39f2e9395c5" />
 
-# Скриншот 4. Структура проекта.
+
+Скриншот 4. Структура проекта.
 <img width="912" height="581" alt="изображение" src="https://github.com/user-attachments/assets/1900787b-63fb-4ca3-82aa-2fcf7f3451ad" />
+
 
 ## Для защиты:
 # Какая тема выбрана и чем отличается? 
