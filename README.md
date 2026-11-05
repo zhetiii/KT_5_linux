@@ -12,9 +12,13 @@
 
 # 2. Структура проекта
 bash-tui-project/
+
 ├── app.sh
+
 ├── README.md
+
 └── data/
+
     └── bookings.txt
 
 
