@@ -18,7 +18,6 @@ bash-tui-project/
 ├── README.md
 
 └── data/
-
     └── bookings.txt
 
 
